@@ -1,0 +1,12 @@
+   0 env
+   1 export USER=Igors
+   2 env
+   3 > myfirstbashscript.sh
+   4 ls
+   5 vi myfirstbashscript.sh 
+   6 cat myfirstbashscript.sh 
+   7 ls -l
+   8 chmod ugo+x myfirstbashscript.sh 
+   9 ls -l
+  10 ./myfirstbashscript.sh 
+  11 history >> history1203.txt
