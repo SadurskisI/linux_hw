@@ -1,0 +1,6 @@
+   0 touch script.sh
+   1 vi script.sh 
+   2 chmod u+wrx script.sh 
+   3 ls -l
+   4 ./script.sh
+   5 history > history2003.txt
