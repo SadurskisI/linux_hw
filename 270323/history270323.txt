@@ -1,0 +1,6 @@
+   0 vi fullscript.sh
+   1 ls -l
+   2 chmod 777 fullscript.sh 
+   3 ls -l
+   4 ./ fullscript.sh 
+   5 history > history270323.txt
